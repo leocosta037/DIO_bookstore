@@ -1,3 +1,7 @@
+# Bookstore (projeto da DIO)
+Projeto desenvolvido em Angular (ainda sem a API para acesso ao banco de dados)
+
+
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
